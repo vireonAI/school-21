@@ -10,34 +10,37 @@ Learn how to use curl, sort, uniq, jq, sed, and cat for data collection and prep
 Basic knowledge of the syntax and semantics of Python.<br>
 :white_check_mark: Result: 100%
 
-### Day02
-Basic knowledge of the OOP approach in Python.<br>
-
 ### Day03
-Managing Python libraries and working with virtual environments.<br>
+Basic knowledge of the OOP approach in Python.<br>
+:white_check_mark: Result: 100%
 
 ### Day04
+Managing Python libraries and working with virtual environments.<br>
+
+### Day05
 Python methods that speed up code execution.<br>
 
 
 ## Jupyter Notebook projects:
 
 
-### Team00
+### Day06(Team)
 Strengthen the skills acquired in the previous days, parsing CSV + work with requests.<br>
  Result:  (+ bonus task)
 
-### Day05
+### Day07
 Acquire skills with Pandas.<br>
 
-### Day06
+### Day08
 Acquire skills with SQL.<br>
 
-### Day07
+### Day09
 Data visualization in Matplotlib, Seaborn, and Plotly.<br>
 
-### Day08
+### Day10
 Basic tasks involved in machine learning in Python.<br>
 
-### Day09
+### Day11
 Master advanced tasks involved in machine learning in Python.<br>
+
+### Day12(Team)
