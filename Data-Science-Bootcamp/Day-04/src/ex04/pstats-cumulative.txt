@@ -1,0 +1,15 @@
+Mon Oct 20 20:40:57 2025    profiling-data.prof
+
+         935390 function calls (910771 primitive calls) in 4.717 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2359 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    337/1    0.007    0.000    4.717    4.717 {built-in method builtins.exec}
+        1    0.000    0.000    4.717    4.717 financial_enhanced.py:1(<module>)
+        1    0.000    0.000    4.548    4.548 financial_enhanced.py:47(main)
+        1    0.000    0.000    4.298    4.298 financial_enhanced.py:6(fetch_financial_page)
+        1    0.000    0.000    4.217    4.217 /home/doniyor/Desktop/core/ds_bootcamp/day4/DSB4_Package_management.ID_886513-1/src/ex03/anjabeve/lib/python3.12/site-packages/httpx/_client.py:1036(get)
+
+
